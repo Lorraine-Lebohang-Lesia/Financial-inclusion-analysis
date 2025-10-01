@@ -1,2 +1,0 @@
-# Financial-inclusion-analysis
-Access to financial services can change lives but millions are still left out. In many developing countries, people struggle to save , invest or grow businesses due to finacial exclusion. economic growth, and unemployment is not well understood.This analysis aims to reveal whether digital financial services can truly empower individuals, stimulate economies, and create opportunites for sustainable development.
